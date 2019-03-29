@@ -1,0 +1,7 @@
+openpyxl==2.6.1
+requests==2.21.0
+selenium==3.141.0
+pyperclip==1.7.0
+PyPDF2==1.26.0
+python-docx==0.8.10
+docx==0.2.4
